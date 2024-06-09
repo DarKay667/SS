@@ -4,8 +4,8 @@ a graphical ban / mute permission
 
 or just use the commands below
 
-- /ss-ban [player username] [eg:7d] [reason]
+- /ss-ban [player username] [time eg:7d] [reason]
 
-- /ss-mute [player username] [eg:1m] [reason]
+- /ss-mute [player username] [time eg:1m] [reason]
 
 dev in progress
