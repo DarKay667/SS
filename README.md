@@ -1,4 +1,4 @@
-a graphical ban/mute permission
+a graphical ban / mute permission
 
 - /ss [player username]
 
