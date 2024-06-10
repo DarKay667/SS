@@ -1,0 +1,14 @@
+name: SS
+version: 1.0
+author: DarKay__
+main: me.darkay.ss.SS
+commands:
+  ss:
+    description: Administrator Tool
+    permission: administrator.ss
+  ss-ban:
+    description: Administrator Tool
+    permission: administrator.ss
+  ss-mute:
+    description: Administrator Tool
+    permission: administrator.ss
